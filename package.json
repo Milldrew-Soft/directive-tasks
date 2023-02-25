@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "task1": "./bin/start-task.sh 1•highlight"
   },
   "private": true,
   "dependencies": {
