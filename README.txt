@@ -1,7 +1,16 @@
 Summary: Create a directive that highlights the text between the start and end tags. 
+============
+1. Add some text to the app.component.ts using lorem ipsum.
 
-1. Create a directive named highlight directive.
-2. Use ElementRef to access the host element and change the backgroung color to yellow.
+  lorem ipsum lorem ipsum excepteur sint occaecat cupidatat non proident, sunt
+  in culpa qui officia deserunt mollit anim id est laborum. lorem ipsum lorem
+  ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+  officia deserunt mollit anim id est laborum.
+
+2. Create a directive named highlight directive.
+3. Use ElementRef to access the host element and change the backgroung color to yellow.
 
 Bonus: Add an @Input() property to the directive to allow the user to specify the color.
+============
+
 
