@@ -9,6 +9,8 @@ Summary: Create a directive that highlights the text between the start and end t
 
 2. Create a directive named highlight directive.
 3. Use ElementRef to access the host element and change the backgroung color to yellow.
+4. Use the HostListener decorator to listen for hover events on the host element.
+5. Change the highlight to your favorite color when the mouse hovers.
 
 Bonus: Add an @Input() property to the directive to allow the user to specify the color.
 ============
