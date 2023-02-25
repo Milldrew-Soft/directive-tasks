@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "task1": "./bin/start-task.sh 1•highlight"
+    "task1": "./bin/start-task.sh 1•highlight",
+    "task2": "./bin/start-task.sh 2•structural"
   },
   "private": true,
   "dependencies": {
