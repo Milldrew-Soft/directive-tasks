@@ -2,4 +2,5 @@ Summary: Create a structural directive named unless that does the opposite of wh
 
 1. Create a block of text in your html.
 2. Create a structural directive named unless with the @angular/cli (ng).
-
+3. Use an input decorator to define a function named unless whose argument is the condition passed into the unless directive. unless="condition"
+4. Write a function definiton for 
